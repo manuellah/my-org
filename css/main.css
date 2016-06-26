@@ -59,6 +59,17 @@ a.nav:hover, a.nav:active {
     padding-top: 20px;
     
 }
-.nav {
+.head {
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+    color: crimson;
    
+}
+.content {
+    font-style: italic;
+    font-size: 1.7em;
+    color: darkviolet;
+    margin-left: 10%;
+    margin-right: 10%
 }
