@@ -2,15 +2,16 @@ body {
      background-color: #808080; 
 }
 .wrap {
-    margin-left: 15%;
-    margin-right: 15%;
+   
     background-color: white;
     
   }
 .section {
     background-color: white;
-    width: 100%;
+    width: 70%;
     height: auto;
+     margin-left: 15%;
+    margin-right: 15%;
 }
 ul {
     list-style-type: none;
