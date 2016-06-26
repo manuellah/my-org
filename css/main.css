@@ -12,6 +12,9 @@ body {
     height: auto;
      margin-left: 15%;
     margin-right: 15%;
+    margin-top: 0;
+    margin-bottom: 0;
+
 }
 ul {
     list-style-type: none;
@@ -72,4 +75,20 @@ a.nav:hover, a.nav:active {
     color: darkviolet;
     margin-left: 10%;
     margin-right: 10%
+}
+table {
+    font-style: italic;
+    font-size: 1.7em;
+    color: black;
+    margin-left: 10%;
+    margin-right: 10%
+}
+.footer {
+    background-color: #C0C0C0;
+}
+.ftext {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
 }
