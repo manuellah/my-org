@@ -4,8 +4,60 @@ body {
 .wrap {
     margin-left: 15%;
     margin-right: 15%;
+    background-color: white;
     
   }
 .section {
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+} 
+li {
+   display: inline;
+    margin: 0;
+}
+a.nav:link, a.nav:visited {
+    border-radius: 20%;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
+    color: #FFFFFF;
+    background-color:  	#00FA9A;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.nav:hover, a.nav:active {
+    background-color: #3CB371;
+    border-radius: 20;
+}
+.logo {
+    display: inline;
+    float: left;
+    width: 60%;
+    font-size: 3em;
+    font-style: italic;
+    color: chocolate;
+}
+.left {
+    display: inline;
+    width: 40%;
+    float: left;
+     font-size: 1.5em;
+    font-style: italic;
+    color:fuchsia;
+    padding-top: 20px;
     
+}
+.nav {
+   
 }
